@@ -24,6 +24,7 @@ baseurl: "" # Déjalo vacío para el repositorio principal
 url: "https://almoinero.github.io"
 
 
+
 # Build settings
 theme: minima
 plugins:
